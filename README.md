@@ -10,10 +10,10 @@ So, for a beginner who is just starting to get their feet wet with functional ge
 My goal in this short tutorial is to show you how to construct a database of functional genes, which we will then use to classify our sequences to identify their taxonomy. I will do this using several available tools.
 
 ### Why the hell am I doing this?
-* ### Make the tutorial that you wish you had! 
+### 1. Make the tutorial that you wish you had! 
 Its simple - I wish I had a nice tutorial to guide me when I started. So, for those who don't know where to start - I hope this can help you. I am very much a beginner; I have very little experience in bioinformatics. So part of this is also to encourage any beginner that this stuff isn't difficult to learn! And kind of fun!
 
-* ### Workflow documentation
+### 2. Workflow documentation
 Consider this an online lab notebook for myself. I want to insure reproducibility in my own analyses, so putting my analyses in a public repo  will allow me to go back and check my work (as well as for anyone else).
 
 ### Objectives
