@@ -14,7 +14,7 @@ My goal in this short tutorial is to show you how to construct a database of fun
 Its simple - I wish I had a nice tutorial to guide me when I started. So, for those who don't know where to start - I hope this can help you. I am very much a beginner; I have very little experience in bioinformatics. So part of this is also to encourage any beginner that this stuff isn't difficult to learn! And kind of fun!
 
 ### 2. Workflow documentation
-Consider this an online lab notebook for myself. I want to insure reproducibility in my own analyses, so putting my analyses in a public repo  will allow me to go back and check my work (as well as for anyone else).
+Consider this an online lab notebook for myself. I want to ensure reproducibility in my own analyses, so putting my bits of code in a public repo  will allow me to go back and check my work (as well as for anyone else).
 
 ### Objectives
 Ok, lets jump straight into it. This tutorial is broken into two parts:
