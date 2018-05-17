@@ -19,6 +19,6 @@ Consider this an online lab notebook for myself. I want to ensure reproducibilit
 ### Objectives
 Ok, lets jump straight into it. This tutorial is broken into two parts:
 
-**<a href="https://github.com/jonathanylin/functional_gene_marker_analysis_tutorial/wiki/Part-One:-Building-a-Gene-Database">Part One</a>**: Obtain reference sequences, extract taxonomic information, and build gene database using <a href="https://cran.r-project.org/web/packages/taxize/index.html">Taxise</a> and <a href="https://github.com/geronimp/graftM">graftM</a>
+**<a href="https://github.com/jonathanylin/functional_gene_marker_analysis_tutorial/wiki/Part-One:-Format-Reference-Sequences-and-Extract-Taxonomy">Part One</a>**: Format Reference Sequences and Extract Taxonomy using <a href="https://cran.r-project.org/web/packages/taxize/index.html">Taxise</a>.
 
-**Part Two**: Classify sequences using graftM
+**<a href="https://github.com/jonathanylin/functional_gene_marker_analysis_tutorial/wiki/Part-Two:-Build-Gene-Database">Part Two</a>**: Build Gene Database using <a href="https://github.com/geronimp/graftM">graftM</a>.
