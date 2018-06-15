@@ -26,7 +26,7 @@ for (i in a_num$V1) {
   a_num$entrez_ID[which(a_num$V1 == i)] = entrezID[1][1][[1]]
   }
 
-#save table with taxon IDs added
+#save table with taxon IDs added 
 write.table(a_num, "a_with_entrezID.txt", sep = "\t", quote = FALSE, row.names = FALSE, col.names = FALSE)
 
 #use the classification() command in taxize to match each taxon ID with its corresponding taxonomy, with the Greengenes prefix (e.g. "k__") for each sequence
